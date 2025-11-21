@@ -10,7 +10,8 @@ public class ReverseNo {
             reversedNo=reversedNo*10+digit;
             num=num/10;
         }
-        System.out.println("REversed Nmder is "+reversedNo);
+        System.out.println("REversed Numder is "+reversedNo);
     }
     
 }
+
